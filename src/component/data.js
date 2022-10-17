@@ -1,0 +1,65 @@
+export const catagories = [{
+        id: 1,
+        title: "ONE",
+        image: './images/one.jpg',
+        dsc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        col: "",
+    },
+    {
+        id: 2,
+        title: "TWO",
+        image: "./images/two.jpg",
+        dsc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        col: "",
+    },
+    {
+        id: 3,
+        title: "Three",
+        image: "./images/thr.jpg",
+        dsc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        col: "",
+    },
+    {
+        id: 4,
+        title: "FOUR",
+        image: "./images/for.jpg",
+        dsc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        col: "",
+    },
+    {
+        id: 5,
+        title: "FIVE",
+        image: "./images/fiv.jpg",
+        dsc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        col: "",
+    },
+    {
+        id: 6,
+        title: "SIX",
+        image: "./images/six.jpg",
+        dsc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        col: "",
+    },
+    {
+        id: 7,
+        title: "SEVEN",
+        image: "./images/sev.jpg",
+        dsc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        col: "",
+    },
+    {
+        id: 8,
+        title: "EIGHT",
+        image: "./images/eit.jpg",
+        dsc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        col: "",
+    },
+    {
+        id: 9,
+        title: "NINE",
+        image: "./images/nin.jpg",
+        dsc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        col: "",
+    }
+
+];
